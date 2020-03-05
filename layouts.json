@@ -45,7 +45,7 @@
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
             "4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v2.0.1-evolve-v4.0-4.1.zip",
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v7.3.0-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v7.3.1-evolve-v4.1-4.2.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -185,7 +185,7 @@
         "description": "Allow you to display DateProperty of your objects (and their associated objects) in a Timeline",
         "wiki": "https://github.com/nevakee716/Timeline/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Timeline/Timeline-v2.1.0-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Timeline/Timeline-v2.1.1-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutMap": {
@@ -285,7 +285,7 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.5.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.5.2-evolve-v4.2.zip"
         }
     },
     "cwLayoutCollapsibleListBox": {
@@ -367,7 +367,7 @@
         "description": "Seach your data, using multiple options",
         "wiki": "https://github.com/JGrndn/Search/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.1.2-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.1.3-evolve-v4.0-4.2.zip"
         }
     },
     "Utils": {
@@ -403,7 +403,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v1.6.0-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v1.6.1-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
@@ -412,7 +412,7 @@
         "description": "Allow you to compare your objects with differents version of it",
         "wiki": "https://github.com/nevakee716/cwLayoutCompare/wiki",
         "evolve-versions": {
-            "4.2-4.6": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutCompare/cwLayoutCompare-v1.0.2-evolve-v4.2-4.6.zip"
+            "4.2-4.6": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutCompare/cwLayoutCompare-v1.0.3-evolve-v4.2-4.6.zip"
         }
     },
     "Html5DiagramFilter": {
@@ -421,7 +421,7 @@
         "description": "Allow you to display region depending on filtered associated objects",
         "wiki": "https://github.com/nevakee716/cwHtml5DiagramFilter/wiki",
         "evolve-versions": {
-            "4.2 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Html5DiagramFilter/Html5DiagramFilter-v1.1.2-evolve-v4.2-4.5.zip"
+            "4.2 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Html5DiagramFilter/Html5DiagramFilter-v1.1.6-evolve-v4.2-4.5.zip"
         }
     }
 }
