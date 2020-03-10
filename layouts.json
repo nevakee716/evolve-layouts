@@ -376,7 +376,7 @@
         "description": "Custom Function Used in Many Library",
         "wiki": "https://github.com/nevakee716/Utils/wiki",
         "evolve-versions": {
-            "4.1 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Utils/Utils-v1.10.1-evolve-v4.1-4.5.zip"
+            "4.1 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Utils/Utils-v1.10.2-evolve-v4.1-4.5.zip"
         }
     },
     "cwOperationBox": {
