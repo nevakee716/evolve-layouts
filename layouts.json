@@ -45,7 +45,7 @@
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
             "4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v2.0.1-evolve-v4.0-4.1.zip",
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v7.3.4-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v7.3.5-evolve-v4.1-4.2.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -340,7 +340,7 @@
         "description": "Allow you to display objet in a Pivot Table",
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v3.4.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v3.4.2-evolve-v4.2.zip"
         }
     },
     "Check Edit Model": {
@@ -403,7 +403,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v2.2.9-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v2.2.10-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
