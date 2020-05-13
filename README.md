@@ -207,7 +207,7 @@
 ## cwOperationBox: 
 - Display Operation object type using a specific layout
 - https://github.com/JGrndn/cwOperationBox/wiki
-- Compatibility : Evolve 4.1
+- Compatibility : Evolve 4.2 - 4.6
 
 ## Duplicate: 
 - Add a button to duplicate object
@@ -222,7 +222,7 @@
 ## cwLayoutCompare: 
 - Allow you to compare your objects with differents version of it
 - https://github.com/nevakee716/cwLayoutCompare/wiki
-- Compatibility : Evolve 4.2-4.6
+- Compatibility : Evolve 4.2 - 4.6
 
 ## Html5DiagramFilter: 
 - Allow you to display region depending on filtered associated objects
