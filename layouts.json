@@ -45,7 +45,7 @@
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
             "4.0": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Network/Network-v2.0.1-evolve-v4.0-4.1.zip",
-            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Network/Network-v7.3.0-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Network/Network-v7.3.5-evolve-v4.1-4.2.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -185,7 +185,7 @@
         "description": "Allow you to display DateProperty of your objects (and their associated objects) in a Timeline",
         "wiki": "https://github.com/nevakee716/Timeline/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Timeline/Timeline-v2.1.0-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Timeline/Timeline-v2.1.2-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutMap": {
@@ -221,7 +221,7 @@
         "description": "Allow you to Graph2D",
         "wiki": "https://github.com/nevakee716/Graph2D/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.3.1-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.4.0-evolve-v4.1-4.2.zip"
         }
     },
     "cwLayoutConfigEditor": {
@@ -258,7 +258,7 @@
         "description": "Use the Erwin colors",
         "wiki": "https://github.com/JGrndn/erwin_theme/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v1.3.3-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v2.1.0-evolve-v4.2.zip"
         }
     },
     "customDisplayStringEnhanced": {
@@ -285,7 +285,7 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.5.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.5.4-evolve-v4.2.zip"
         }
     },
     "cwLayoutCollapsibleListBox": {
@@ -294,7 +294,7 @@
         "description": "Allow you to expand/collable a list box",
         "wiki": "https://github.com/JGrndn/cwLayoutCollapsibleListBox/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCollapsibleListBox/cwLayoutCollapsibleListBox-v1.1.3-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCollapsibleListBox/cwLayoutCollapsibleListBox-v1.1.8-evolve-v4.0-4.2.zip"
         }
     },
     "RedirectEdit": {
@@ -322,7 +322,7 @@
         "description": "Allow users to create their own filter and to display data using charts",
         "wiki": "https://github.com/JGrndn/cwLayoutCustomQuery/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.3.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.3.3-evolve-v4.2.zip"
         }
     },
     "Gantt": {
@@ -340,7 +340,7 @@
         "description": "Allow you to display objet in a Pivot Table",
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v3.3.3-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v3.4.2-evolve-v4.2.zip"
         }
     },
     "Check Edit Model": {
@@ -367,7 +367,7 @@
         "description": "Seach your data, using multiple options",
         "wiki": "https://github.com/JGrndn/Search/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.1.2-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.2.1-evolve-v4.0-4.2.zip"
         }
     },
     "Utils": {
@@ -376,7 +376,7 @@
         "description": "Custom Function Used in Many Library",
         "wiki": "https://github.com/nevakee716/Utils/wiki",
         "evolve-versions": {
-            "4.1 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Utils/Utils-v1.10.1-evolve-v4.1-4.5.zip"
+            "4.1 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Utils/Utils-v2.1.0-evolve-v4.1-4.5.zip"
         }
     },
     "cwOperationBox": {
@@ -385,7 +385,7 @@
         "description": "Display Operation object type using a specific layout",
         "wiki": "https://github.com/JGrndn/cwOperationBox/wiki",
         "evolve-versions": {
-            "4.1": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwOperationBox/cwOperationBox-v1.0.0-evolve-v4.1.zip"
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwOperationBox/cwOperationBox-v1.0.0-evolve-v4.1.zip"
         }
     },
     "Duplicate": {
@@ -403,7 +403,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v1.4.6-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v2.2.11-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
@@ -412,7 +412,7 @@
         "description": "Allow you to compare your objects with differents version of it",
         "wiki": "https://github.com/nevakee716/cwLayoutCompare/wiki",
         "evolve-versions": {
-            "4.2-4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCompare/cwLayoutCompare-v1.0.2-evolve-v4.2-4.6.zip"
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCompare/cwLayoutCompare-v1.0.3-evolve-v4.2-4.6.zip"
         }
     },
     "Html5DiagramFilter": {
@@ -421,7 +421,7 @@
         "description": "Allow you to display region depending on filtered associated objects",
         "wiki": "https://github.com/nevakee716/cwHtml5DiagramFilter/wiki",
         "evolve-versions": {
-            "4.2 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Html5DiagramFilter/Html5DiagramFilter-v1.1.2-evolve-v4.2-4.5.zip"
+            "4.2 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Html5DiagramFilter/Html5DiagramFilter-v1.1.6-evolve-v4.2-4.5.zip"
         }
     }
 }
