@@ -294,7 +294,7 @@
         "description": "Allow you to expand/collable a list box",
         "wiki": "https://github.com/JGrndn/cwLayoutCollapsibleListBox/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCollapsibleListBox/cwLayoutCollapsibleListBox-v1.1.8-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCollapsibleListBox/cwLayoutCollapsibleListBox-v1.1.9-evolve-v4.0-4.2.zip"
         }
     },
     "RedirectEdit": {
