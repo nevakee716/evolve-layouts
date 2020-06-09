@@ -321,7 +321,7 @@
         "description": "Allow users to create their own filter and to display data using charts",
         "wiki": "https://github.com/JGrndn/cwLayoutCustomQuery/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.4.0-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.4.1-evolve-v4.2.zip"
         }
     },
     "Gantt": {
