@@ -221,7 +221,7 @@
 
 ## cwLayoutCompare: 
 - Allow you to compare your objects with differents version of it
-- https://github.com/nevakee716/cwLayoutCompare/wiki
+- https://github.com/nevakee716/Layout-Compare/wiki
 - Compatibility : Evolve 4.2 - 4.6
 
 ## Html5DiagramFilter: 
