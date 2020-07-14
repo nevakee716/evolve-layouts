@@ -402,7 +402,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v2.7.1-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v2.7.2-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
@@ -429,7 +429,7 @@
         "description": "Allow you to draw a quadrant",
         "wiki": "https://github.com/nevakee716/cwQuadrant/wiki",
         "evolve-versions": {
-            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/CwLayoutQuadrantChart/CwLayoutQuadrantChart-v1.1.0-evolve-v4.2-4.6.zip"
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/CwLayoutQuadrantChart/CwLayoutQuadrantChart-v1.1.1-evolve-v4.2-4.6.zip"
         }
     }
 }
