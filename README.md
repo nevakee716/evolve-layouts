@@ -229,3 +229,8 @@
 - https://github.com/nevakee716/cwHtml5DiagramFilter/wiki
 - Compatibility : Evolve 4.2 - 4.5
 
+## CwLayoutQuadrantChart: 
+- Allow you to draw a quadrant
+- https://github.com/nevakee716/cwQuadrant/wiki
+- Compatibility : Evolve 4.2 - 4.6
+

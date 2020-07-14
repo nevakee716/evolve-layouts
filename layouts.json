@@ -422,5 +422,14 @@
         "evolve-versions": {
             "4.2 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Html5DiagramFilter/Html5DiagramFilter-v1.1.6-evolve-v4.2-4.5.zip"
         }
+    },
+    "CwLayoutQuadrantChart": {
+        "name": "CwLayoutQuadrantChart",
+        "repository": "https://github.com/nevakee716/cwQuadrant",
+        "description": "Allow you to draw a quadrant",
+        "wiki": "https://github.com/nevakee716/cwQuadrant/wiki",
+        "evolve-versions": {
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/CwLayoutQuadrantChart/CwLayoutQuadrantChart-v1.1.0-evolve-v4.2-4.6.zip"
+        }
     }
 }
