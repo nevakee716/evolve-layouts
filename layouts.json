@@ -411,7 +411,7 @@
         "description": "Allow you to compare your objects with differents version of it",
         "wiki": "https://github.com/nevakee716/cwLayoutCompare/wiki",
         "evolve-versions": {
-            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCompare/cwLayoutCompare-v1.0.3-evolve-v4.2-4.6.zip"
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCompare/cwLayoutCompare-v1.0.4-evolve-v4.2-4.6.zip"
         }
     },
     "Html5DiagramFilter": {
