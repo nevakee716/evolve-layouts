@@ -229,7 +229,7 @@
         "description": "Allow you to create configurations for operation using a UI",
         "wiki": "https://github.com/JGrndn/cwLayoutConfigEditor/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutConfigEditor/cwLayoutConfigEditor-v1.10.7-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutConfigEditor/cwLayoutConfigEditor-v1.10.8-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutExecuteOperation": {
@@ -339,7 +339,7 @@
         "description": "Allow you to display objet in a Pivot Table",
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v4.2.0-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v4.2.1-evolve-v4.2.zip"
         }
     },
     "Check Edit Model": {
