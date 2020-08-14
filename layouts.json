@@ -384,7 +384,7 @@
         "description": "Display Operation object type using a specific layout",
         "wiki": "https://github.com/JGrndn/cwOperationBox/wiki",
         "evolve-versions": {
-            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwOperationBox/cwOperationBox-v1.0.0-evolve-v4.1.zip"
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwOperationBox/cwOperationBox-v1.0.1-evolve-v4.2-4.6.zip"
         }
     },
     "Duplicate": {
