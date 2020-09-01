@@ -44,7 +44,7 @@
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
             "4.0": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Network/Network-v2.0.1-evolve-v4.0-4.1.zip",
-            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Network/Network-v7.3.7-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Network/Network-v7.4.0-evolve-v4.1-4.2.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -321,7 +321,7 @@
         "description": "Allow users to create their own filter and to display data using charts",
         "wiki": "https://github.com/JGrndn/cwLayoutCustomQuery/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.7.0-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.7.1-evolve-v4.2.zip"
         }
     },
     "Gantt": {
@@ -375,7 +375,7 @@
         "description": "Custom Function Used in Many Library",
         "wiki": "https://github.com/nevakee716/Utils/wiki",
         "evolve-versions": {
-            "4.1 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Utils/Utils-v2.4.0-evolve-v4.1-4.5.zip"
+            "4.1 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Utils/Utils-v2.5.0-evolve-v4.1-4.5.zip"
         }
     },
     "cwOperationBox": {
