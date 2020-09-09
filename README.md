@@ -7,7 +7,7 @@
 ## ReverseList: 
 - Allow you to reverse a hierarchical tree in order to re-order data
 - https://github.com/nevakee716/ReverseList/wiki
-- Compatibility : Evolve 4.0 - 4.2,4.0,4.2
+- Compatibility : Evolve 4.2
 
 ## GroupBy: 
 - Aims to group a list of item and then display them by property or by alphabet.
