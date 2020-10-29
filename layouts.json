@@ -429,5 +429,14 @@
         "evolve-versions": {
             "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/CwLayoutQuadrantChart/CwLayoutQuadrantChart-v1.1.1-evolve-v4.2-4.6.zip"
         }
+    },
+    "cwBackup": {
+        "name": "cwBackup",
+        "repository": "https://github.com/nevakee716/cwBackup",
+        "description": "Allow to compare a backup with the current status of the model, and restore it (require ul psg api)",
+        "wiki": "https://github.com/nevakee716/cwBackup/wiki",
+        "evolve-versions": {
+            "4.2-4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwBackup/cwBackup-v0.0.5-evolve-v4.2-4.6.zip"
+        }
     }
 }

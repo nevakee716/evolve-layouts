@@ -234,3 +234,8 @@
 - https://github.com/nevakee716/cwQuadrant/wiki
 - Compatibility : Evolve 4.2 - 4.6
 
+## cwBackup: 
+- Allow to compare a backup with the current status of the model, and restore it (require ul psg api)
+- https://github.com/nevakee716/cwBackup/wiki
+- Compatibility : Evolve 4.2-4.6
+
