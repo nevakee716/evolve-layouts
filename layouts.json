@@ -255,7 +255,7 @@
         "description": "Use the Erwin colors",
         "wiki": "https://github.com/JGrndn/erwin_theme/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v2.1.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v2.1.2-evolve-v4.2.zip"
         }
     },
     "customDisplayStringEnhanced": {
@@ -436,7 +436,7 @@
         "description": "Allow to compare a backup with the current status of the model, and restore it (require ul psg api)",
         "wiki": "https://github.com/nevakee716/cwBackup/wiki",
         "evolve-versions": {
-            "4.2-4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwBackup/cwBackup-v0.0.6-evolve-v4.2-4.6.zip"
+            "4.2-4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwBackup/cwBackup-v0.0.7-evolve-v4.2-4.6.zip"
         }
     }
 }
