@@ -255,7 +255,7 @@
         "description": "Use the Erwin colors",
         "wiki": "https://github.com/JGrndn/erwin_theme/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v2.1.2-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v2.1.3-evolve-v4.2.zip"
         }
     },
     "customDisplayStringEnhanced": {
@@ -373,7 +373,7 @@
         "description": "Custom Function Used in Many Library",
         "wiki": "https://github.com/nevakee716/Utils/wiki",
         "evolve-versions": {
-            "4.1 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Utils/Utils-v2.5.2-evolve-v4.1-4.5.zip"
+            "4.1 - 4.5": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Utils/Utils-v2.5.3-evolve-v4.1-4.5.zip"
         }
     },
     "cwOperationBox": {
