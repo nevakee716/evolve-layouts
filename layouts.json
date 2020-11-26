@@ -282,7 +282,7 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.7.0-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.7.1-evolve-v4.2.zip"
         }
     },
     "cwLayoutCollapsibleListBox": {
