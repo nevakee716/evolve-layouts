@@ -355,7 +355,7 @@
         "description": "Allow you to filter data when in edit mode, according another view set up",
         "wiki": "https://github.com/JGrndn/cwLayoutFilteredListBox/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutFilteredListBox/cwLayoutFilteredListBox-v1.3.1-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutFilteredListBox/cwLayoutFilteredListBox-v1.3.2-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutSearch": {
