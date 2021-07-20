@@ -337,7 +337,7 @@
         "description": "Allow you to display objet in a Pivot Table",
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v4.5.0-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v4.5.2-evolve-v4.2.zip"
         }
     },
     "Check Edit Model": {
