@@ -255,7 +255,7 @@
         "description": "Use the Erwin colors",
         "wiki": "https://github.com/JGrndn/erwin_theme/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v3.5.10-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v3.5.11-evolve-v4.2.zip"
         }
     },
     "customDisplayStringEnhanced": {
@@ -337,7 +337,7 @@
         "description": "Allow you to display objet in a Pivot Table",
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v4.5.3-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v4.5.4-evolve-v4.2.zip"
         }
     },
     "Check Edit Model": {
