@@ -282,7 +282,7 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.8.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.9.0-evolve-v4.2.zip"
         }
     },
     "cwLayoutCollapsibleListBox": {
@@ -437,6 +437,15 @@
         "wiki": "https://github.com/nevakee716/cwBackup/wiki",
         "evolve-versions": {
             "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwBackup/cwBackup-v0.0.9-evolve-v4.2-4.6.zip"
+        }
+    },
+    "gridSimpleExtended": {
+        "name": "gridSimpleExtended",
+        "repository": "git+https://github.com/nevakee716/gridSimpleExtended.git",
+        "description": "Simple Table with filter",
+        "wiki": "https://github.com/nevakee716/gridSimpleExtended/wiki",
+        "evolve-versions": {
+            "3.0 - 4.1": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/gridSimpleExtended/gridSimpleExtended-v1.0.0-evolve-v3.0-4.1.zip"
         }
     }
 }

@@ -239,3 +239,8 @@
 - https://github.com/nevakee716/cwBackup/wiki
 - Compatibility : Evolve 4.2 - 4.6
 
+## gridSimpleExtended: 
+- Simple Table with filter
+- https://github.com/nevakee716/gridSimpleExtended/wiki
+- Compatibility : Evolve 3.0 - 4.1
+
