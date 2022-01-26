@@ -400,7 +400,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v4.4.2-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v4.4.3-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
