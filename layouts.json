@@ -255,7 +255,7 @@
         "description": "Use the Erwin colors",
         "wiki": "https://github.com/JGrndn/erwin_theme/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v3.7.5-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v3.7.6-evolve-v4.2.zip"
         }
     },
     "customDisplayStringEnhanced": {
@@ -355,7 +355,7 @@
         "description": "Allow you to filter data when in edit mode, according another view set up",
         "wiki": "https://github.com/JGrndn/cwLayoutFilteredListBox/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutFilteredListBox/cwLayoutFilteredListBox-v1.3.3-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutFilteredListBox/cwLayoutFilteredListBox-v1.3.4-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutSearch": {
