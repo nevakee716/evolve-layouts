@@ -98,7 +98,7 @@
         "description": "Allow you to display your data into a 2 way Tree. (You can only use One Way if you want) By right Clicking on nodes, you can display diagram PopOut or go to the objectPage(defaultview)",
         "wiki": "https://github.com/nevakee716/Tree/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Tree/Tree-v2.0.1-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Tree/Tree-v2.0.2-evolve-v4.1-4.2.zip"
         }
     },
     "JumpAndMerge": {
