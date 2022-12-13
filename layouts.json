@@ -364,7 +364,7 @@
         "description": "Seach your data, using multiple options",
         "wiki": "https://github.com/JGrndn/Search/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v3.2.1-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v3.2.3-evolve-v4.0-4.2.zip"
         }
     },
     "Utils": {
@@ -400,7 +400,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v5.12.0-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v5.12.1-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
