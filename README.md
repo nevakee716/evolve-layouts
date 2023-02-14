@@ -17,7 +17,7 @@
 ## FilterByContextualAssociation: 
 - Allow you to filter items on a node depending on a Contextual association with the first parent
 - https://github.com/nevakee716/FilterByContextualAssociation/wiki
-- Compatibility : Evolve 3.1 - 4.2
+- Compatibility : Evolve 3.1 - 4.2,3.1 - 4.1
 
 ## Network: 
 - Allow you to display association in a network

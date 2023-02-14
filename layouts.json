@@ -32,7 +32,8 @@
         "description": "Allow you to filter items on a node depending on a Contextual association with the first parent",
         "wiki": "https://github.com/nevakee716/FilterByContextualAssociation/wiki",
         "evolve-versions": {
-            "3.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.2.1-evolve-v3.1-4.1.zip"
+            "3.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.2.1-evolve-v3.1-4.1.zip",
+            "3.1 - 4.1": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.2.2-evolve-v3.1-4.1.zip"
         }
     },
     "Network": {
@@ -98,7 +99,7 @@
         "description": "Allow you to display your data into a 2 way Tree. (You can only use One Way if you want) By right Clicking on nodes, you can display diagram PopOut or go to the objectPage(defaultview)",
         "wiki": "https://github.com/nevakee716/Tree/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Tree/Tree-v2.0.4-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Tree/Tree-v2.0.5-evolve-v4.1-4.2.zip"
         }
     },
     "JumpAndMerge": {
@@ -182,7 +183,7 @@
         "description": "Allow you to display DateProperty of your objects (and their associated objects) in a Timeline",
         "wiki": "https://github.com/nevakee716/Timeline/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Timeline/Timeline-v2.3.4-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Timeline/Timeline-v2.3.5-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutMap": {
@@ -218,7 +219,7 @@
         "description": "Allow you to Graph2D",
         "wiki": "https://github.com/nevakee716/Graph2D/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.4.0-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.4.1-evolve-v4.1-4.2.zip"
         }
     },
     "cwLayoutConfigEditor": {
@@ -337,7 +338,7 @@
         "description": "Allow you to display objet in a Pivot Table",
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v6.5.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v6.5.2-evolve-v4.2.zip"
         }
     },
     "Check Edit Model": {
@@ -364,7 +365,7 @@
         "description": "Seach your data, using multiple options",
         "wiki": "https://github.com/JGrndn/Search/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v3.2.5-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v3.2.6-evolve-v4.0-4.2.zip"
         }
     },
     "Utils": {
@@ -400,7 +401,7 @@
         "description": "Allow you to configure specifics directly in evolve",
         "wiki": "https://github.com/nevakee716/CoffeeMaker/wiki",
         "evolve-versions": {
-            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v5.12.7-evolve-v4.2-4.x.zip"
+            "4.2 - 4.x": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/Custom Layout Configuration/Custom Layout Configuration-v5.12.8-evolve-v4.2-4.x.zip"
         }
     },
     "cwLayoutCompare": {
@@ -427,7 +428,7 @@
         "description": "Allow you to draw a quadrant",
         "wiki": "https://github.com/nevakee716/cwQuadrant/wiki",
         "evolve-versions": {
-            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/CwLayoutQuadrantChart/CwLayoutQuadrantChart-v1.1.1-evolve-v4.2-4.6.zip"
+            "4.2 - 4.6": "https://github.com/nevakee716/evolve-layouts/raw/master/dist/CwLayoutQuadrantChart/CwLayoutQuadrantChart-v1.2.1-evolve-v4.2-4.6.zip"
         }
     },
     "cwBackup": {
